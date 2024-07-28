@@ -1,2 +1,2 @@
 # telegram
-telegram,tg,电报
+电报,俄罗斯电报,telegram,tg
